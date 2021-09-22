@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projecto37TrianguloAsteccaso06", "Projecto37TrianguloAsteccaso06\Projecto37TrianguloAsteccaso06.csproj", "{0C04C585-54FB-4BB3-97F8-BAF0CFA055BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C04C585-54FB-4BB3-97F8-BAF0CFA055BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C04C585-54FB-4BB3-97F8-BAF0CFA055BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C04C585-54FB-4BB3-97F8-BAF0CFA055BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C04C585-54FB-4BB3-97F8-BAF0CFA055BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A210DFC7-4415-40E7-B9CC-8A0295E17AE6}
+	EndGlobalSection
+EndGlobal
